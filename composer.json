@@ -1,0 +1,12 @@
+{
+    "name": "dtrembeczki/mvc-crud",
+    "description": "MVC Framework beadando, keszitette: Trembeczki David",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "classmap": [
+            "app/"
+        ]
+    }
+}
